@@ -1,4 +1,4 @@
-## Hi there 🚀
+## Hi there! 🚀
 
 My name is Jalin Springer. I'm a year 4 computer science student at Western University. 
 
