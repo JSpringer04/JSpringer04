@@ -2,7 +2,7 @@
 
 My name is Jalin Springer. I'm a year 4 computer science student at Western University. 
 
-I am currently working on creating the backend of a hotel in Barbados.
+I am currently working on creating the backend of a hotel management system in Barbados.
 
 My main tech stack includes react, mySQL, C++, UE5 tools, and the Adobe Creative Suite.
 
