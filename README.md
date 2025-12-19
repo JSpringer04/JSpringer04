@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 🚀
 
-<!--
-**JSpringer04/JSpringer04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jalin Springer. I'm a year 4 computer science student at Western University. 
 
-Here are some ideas to get you started:
+I am currently working on creating the backend of a hotel in Barbados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack includes react, mySQL, C++, UE5 tools, and the Adobe Creative Suite.
+
+Out of all my projects, the most creative and technical would be 
+
+
+Fun Facts:
+
+  * I have a dog.
+  * I enjoy philosophical debate.
+  * My favourite source of caffeine is an ice capp.
+
