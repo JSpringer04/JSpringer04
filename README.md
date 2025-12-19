@@ -1,6 +1,6 @@
 ## Second Profile has landed!! 🚀
 
-My name is Jalin Springer. I'm a year 4 computer science student at Western University. 
+Hello!! My name is Jalin Springer. I'm a year 4 computer science student at Western University. 
 
 I am currently working on creating the backend of a hotel management system in Barbados.
 
